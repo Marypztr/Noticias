@@ -1,0 +1,17 @@
+h1{
+    color:lightyellow;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+p{
+    margin-top:10px;
+    font-weight: bold;
+}
+
+
+label{
+    width:13px;
+    color:gray;
+}
